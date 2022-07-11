@@ -1,2 +1,2 @@
 readme file for directory
-update readme 
+git pull
